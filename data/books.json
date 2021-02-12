@@ -1,0 +1,1006 @@
+{
+  "books": [
+    {
+      "title": "The Tale of Peter Rabbit",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/14838/pg14838.cover.small.jpg",
+      "url": "http://gutenberg.org/files/14838/14838-h/14838-h.htm"
+    },
+    {
+      "title": "Favorite Fairy Tales",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/20748/pg20748.cover.small.jpg",
+      "url": "http://gutenberg.org/files/20748/20748-h/20748-h.htm"
+    },
+    {
+      "title": "Children's Hour with Red Riding Hood and Other Stories",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/11592/pg11592.cover.small.jpg",
+      "url": "http://gutenberg.org/files/11592/11592-h/11592-h.htm"
+    },
+    {
+      "title": "Struwwelpeter: Merry Stories and Funny Pictures",
+      "author": "Heinrich Hoffmann",
+      "coverImage": "http://gutenberg.org/cache/epub/12116/pg12116.cover.small.jpg",
+      "url": "http://gutenberg.org/files/12116/12116-h/12116-h.htm"
+    },
+    {
+      "title": "The Story of the Three Little Pigs",
+      "author": "L. Leslie Brooke",
+      "coverImage": "http://gutenberg.org/cache/epub/18155/pg18155.cover.small.jpg",
+      "url": "http://gutenberg.org/files/18155/18155-h/18155-h.htm"
+    },
+    {
+      "title": "The Little Red Hen",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/18735/pg18735.cover.small.jpg",
+      "url": "http://gutenberg.org/files/18735/18735-h/18735-h.htm"
+    },
+    {
+      "title": "The Tale of Tom Kitten",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/14837/pg14837.cover.small.jpg",
+      "url": "http://gutenberg.org/files/14837/14837-h/14837-h.htm"
+    },
+    {
+      "title": "The Tale of Squirrel Nutkin",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/14872/pg14872.cover.small.jpg",
+      "url": "http://gutenberg.org/files/14872/14872-h/14872-h.htm"
+    },
+    {
+      "title": "Nonsense Books",
+      "author": "Edward Lear",
+      "coverImage": "http://gutenberg.org/cache/epub/13650/pg13650.cover.small.jpg",
+      "url": "http://gutenberg.org/files/13650/13650-h/13650-h.htm"
+    },
+    {
+      "title": "The Tale of Benjamin Bunny",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/14407/pg14407.cover.small.jpg",
+      "url": "http://gutenberg.org/files/14407/14407-h/14407-h.htm"
+    },
+    {
+      "title": "The Tale of the Flopsy Bunnies",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/14220/pg14220.cover.small.jpg",
+      "url": "http://gutenberg.org/files/14220/14220-h/14220-h.htm"
+    },
+    {
+      "title": "Twas the Night before Christmas: A Visit from St. Nicholas",
+      "author": "Clement Clarke Moore",
+      "coverImage": "http://gutenberg.org/cache/epub/17135/pg17135.cover.small.jpg",
+      "url": "http://gutenberg.org/files/17135/17135-h/17135-h.htm"
+    },
+    {
+      "title": "Household Stories by the Brothers Grimm",
+      "author": "Jacob Grimm and Wilhelm Grimm",
+      "coverImage": "http://gutenberg.org/cache/epub/19068/pg19068.cover.small.jpg",
+      "url": "http://gutenberg.org/files/19068/19068-h/19068-h.htm"
+    },
+    {
+      "title": "The Tales of Mother Goose",
+      "author": "Charles Perrault",
+      "coverImage": "http://gutenberg.org/cache/epub/17208/pg17208.cover.small.jpg",
+      "url": "http://gutenberg.org/files/17208/17208-h/17208-h.htm"
+    },
+    {
+      "title": "The Tale of Mrs. Tiggy-Winkle",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/15137/pg15137.cover.small.jpg",
+      "url": "http://gutenberg.org/files/15137/15137-h/15137-h.htm"
+    },
+    {
+      "title": "The Tailor of Gloucester",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/14868/pg14868.cover.small.jpg",
+      "url": "http://gutenberg.org/files/14868/14868-h/14868-h.htm"
+    },
+    {
+      "title": "The Tale of Johnny Town-Mouse",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/15284/pg15284.cover.small.jpg",
+      "url": "http://gutenberg.org/files/15284/15284-h/15284-h.htm"
+    },
+    {
+      "title": "The Pied Piper of Hamelin",
+      "author": "Robert Browning",
+      "coverImage": "http://gutenberg.org/cache/epub/18343/pg18343.cover.small.jpg",
+      "url": "http://gutenberg.org/files/18343/18343-h/18343-h.htm"
+    },
+    {
+      "title": "Uncle Remus and Brer Rabbit",
+      "author": "Joel Chandler Harris",
+      "coverImage": "http://gutenberg.org/cache/epub/22282/pg22282.cover.small.jpg",
+      "url": "http://gutenberg.org/files/22282/22282-h/22282-h.htm"
+    },
+    {
+      "title": "A Apple Pie",
+      "author": "Kate Greenaway",
+      "coverImage": "http://gutenberg.org/cache/epub/15809/pg15809.cover.small.jpg",
+      "url": "http://gutenberg.org/files/15809/15809-h/15809-h.htm"
+    },
+    {
+      "title": "The Real Mother Goose",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/10607/pg10607.cover.small.jpg",
+      "url": "http://gutenberg.org/files/10607/10607-h/10607-h.htm"
+    },
+    {
+      "title": "The Tale of Jemima Puddle-Duck",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/14814/pg14814.cover.small.jpg",
+      "url": "http://gutenberg.org/files/14814/14814-h/14814-h.htm"
+    },
+    {
+      "title": "The Tale of Mr. Jeremy Fisher",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/15077/pg15077.cover.small.jpg",
+      "url": "http://gutenberg.org/files/15077/15077-h/15077-h.htm"
+    },
+    {
+      "title": "The Tale of Samuel Whiskers; Or, The Roly-Poly Pudding",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/15575/pg15575.cover.small.jpg",
+      "url": "http://gutenberg.org/files/15575/15575-h/15575-h.htm"
+    },
+    {
+      "title": "A Child's Garden of Verses",
+      "author": "Robert Louis Stevenson",
+      "coverImage": "http://gutenberg.org/cache/epub/19722/pg19722.cover.small.jpg",
+      "url": "http://gutenberg.org/files/19722/19722-h/19722-h.htm"
+    },
+    {
+      "title": "The Tale of Peter Rabbit",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/14304/pg14304.cover.small.jpg",
+      "url": "http://gutenberg.org/files/14304/14304-h/14304-h.htm"
+    },
+    {
+      "title": "The Tale of Mrs. Tittlemouse",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/17089/pg17089.cover.small.jpg",
+      "url": "http://gutenberg.org/files/17089/17089-h/17089-h.htm"
+    },
+    {
+      "title": "The Story of Miss Moppet",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/14848/pg14848.cover.small.jpg",
+      "url": "http://gutenberg.org/files/14848/14848-h/14848-h.htm"
+    },
+    {
+      "title": "The Anti-Slavery Alphabet",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/16081/pg16081.cover.small.jpg",
+      "url": "http://gutenberg.org/files/16081/16081-h/16081-h.htm"
+    },
+    {
+      "title": "The Great Big Treasury of Beatrix Potter",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/572/pg572.cover.small.jpg",
+      "url": "http://gutenberg.org/files/572/572-h/572-h.htm"
+    },
+    {
+      "title": "Finger plays for nursery and kindergarten",
+      "author": "Emilie Poulsson",
+      "coverImage": "http://gutenberg.org/cache/epub/24912/pg24912.cover.small.jpg",
+      "url": "http://gutenberg.org/files/24912/24912-h/24912-h.htm"
+    },
+    {
+      "title": "A Book of Nonsense",
+      "author": "Edward Lear",
+      "coverImage": "http://gutenberg.org/cache/epub/13646/pg13646.cover.small.jpg",
+      "url": "http://gutenberg.org/files/13646/13646-h/13646-h.htm"
+    },
+    {
+      "title": "The Three Bears",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/23322/pg23322.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23322/23322-h/23322-h.htm"
+    },
+    {
+      "title": "The Magic Fishbone",
+      "author": "Charles Dickens",
+      "coverImage": "http://gutenberg.org/cache/epub/23344/pg23344.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23344/23344-h/23344-h.htm"
+    },
+    {
+      "title": "Harry's Ladder to Learning",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/24644/pg24644.cover.small.jpg",
+      "url": "http://gutenberg.org/files/24644/24644-h/24644-h.htm"
+    },
+    {
+      "title": "A Frog He Would A-Wooing Go",
+      "author": "Randolph Caldecott",
+      "coverImage": "http://gutenberg.org/cache/epub/14077/pg14077.cover.small.jpg",
+      "url": "http://gutenberg.org/files/14077/14077-h/14077-h.htm"
+    },
+    {
+      "title": "The Tale of Mr. Tod",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/19805/pg19805.cover.small.jpg",
+      "url": "http://gutenberg.org/files/19805/19805-h/19805-h.htm"
+    },
+    {
+      "title": "More Russian Picture Tales",
+      "author": "Valerian Viliamovich Karrik",
+      "coverImage": "http://gutenberg.org/cache/epub/23462/pg23462.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23462/23462-h/23462-h.htm"
+    },
+    {
+      "title": "The Little Mother Goose",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/20511/pg20511.cover.small.jpg",
+      "url": "http://gutenberg.org/files/20511/20511-h/20511-h.htm"
+    },
+    {
+      "title": "The Tale of Ginger and Pickles",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/14877/pg14877.cover.small.jpg",
+      "url": "http://gutenberg.org/files/14877/14877-h/14877-h.htm"
+    },
+    {
+      "title": "Old Christmas: from the Sketch Book of Washington Irving",
+      "author": "Washington Irving",
+      "coverImage": "http://gutenberg.org/cache/epub/20656/pg20656.cover.small.jpg",
+      "url": "http://gutenberg.org/files/20656/20656-h/20656-h.htm"
+    },
+    {
+      "title": "The Frog Prince and Other Stories",
+      "author": "Walter Crane",
+      "coverImage": "http://gutenberg.org/cache/epub/20437/pg20437.cover.small.jpg",
+      "url": "http://gutenberg.org/files/20437/20437-h/20437-h.htm"
+    },
+    {
+      "title": "The Tale of Timmy Tiptoes",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/14797/pg14797.cover.small.jpg",
+      "url": "http://gutenberg.org/files/14797/14797-h/14797-h.htm"
+    },
+    {
+      "title": "My First Picture Book",
+      "author": "Joseph Martin Kronheim",
+      "coverImage": "http://gutenberg.org/cache/epub/18937/pg18937.cover.small.jpg",
+      "url": "http://gutenberg.org/files/18937/18937-h/18937-h.htm"
+    },
+    {
+      "title": "The Tale of the Pie and the Patty Pan",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/15234/pg15234.cover.small.jpg",
+      "url": "http://gutenberg.org/files/15234/15234-h/15234-h.htm"
+    },
+    {
+      "title": "Cecily Parsley's Nursery Rhymes",
+      "author": "Beatrix Potter",
+      "coverImage": "http://gutenberg.org/cache/epub/23350/pg23350.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23350/23350-h/23350-h.htm"
+    },
+    {
+      "title": "Mother Goose in Prose",
+      "author": "L. Frank Baum",
+      "coverImage": "http://gutenberg.org/cache/epub/5312/pg5312.cover.small.jpg",
+      "url": "http://gutenberg.org/files/5312/5312-h/5312-h.htm"
+    },
+    {
+      "title": "Mother Goose or the Old Nursery Rhymes",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/23794/pg23794.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23794/23794-h/23794-h.htm"
+    },
+    {
+      "title": "The Baby's Own Aesop",
+      "author": "Aesop and Walter Crane",
+      "coverImage": "http://gutenberg.org/cache/epub/25433/pg25433.cover.small.jpg",
+      "url": "http://gutenberg.org/files/25433/25433-h/25433-h.htm"
+    },
+    {
+      "title": "Nonsense Songs",
+      "author": "Edward Lear",
+      "coverImage": "http://gutenberg.org/cache/epub/13647/pg13647.cover.small.jpg",
+      "url": "http://gutenberg.org/files/13647/13647-h/13647-h.htm"
+    },
+    {
+      "title": "The Absurd ABC",
+      "author": "Walter Crane",
+      "coverImage": "http://gutenberg.org/cache/epub/17283/pg17283.cover.small.jpg",
+      "url": "http://gutenberg.org/files/17283/17283-h/17283-h.htm"
+    },
+    {
+      "title": "The House That Jack Built",
+      "author": "Randolph Caldecott",
+      "coverImage": "http://gutenberg.org/cache/epub/12109/pg12109.cover.small.jpg",
+      "url": "http://gutenberg.org/files/12109/12109-h/12109-h.htm"
+    },
+    {
+      "title": "The Sleeping Beauty Picture Book",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/23521/pg23521.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23521/23521-h/23521-h.htm"
+    },
+    {
+      "title": "Animal Children: The Friends of the Forest and the Plain",
+      "author": "Edith Brown Kirkwood",
+      "coverImage": "http://gutenberg.org/cache/epub/17782/pg17782.cover.small.jpg",
+      "url": "http://gutenberg.org/files/17782/17782-h/17782-h.htm"
+    },
+    {
+      "title": "Johnny Crow's Garden",
+      "author": "L. Leslie Brooke",
+      "coverImage": "http://gutenberg.org/cache/epub/10469/pg10469.cover.small.jpg",
+      "url": "http://gutenberg.org/files/10469/10469-h/10469-h.htm"
+    },
+    {
+      "title": "Mother Stories from the Old Testament",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/17162/pg17162.cover.small.jpg",
+      "url": "http://gutenberg.org/files/17162/17162-h/17162-h.htm"
+    },
+    {
+      "title": "A Visit From Saint Nicholas",
+      "author": "Clement Clarke Moore",
+      "coverImage": "http://gutenberg.org/cache/epub/17382/pg17382.cover.small.jpg",
+      "url": "http://gutenberg.org/files/17382/17382-h/17382-h.htm"
+    },
+    {
+      "title": "The Golden Goose Book",
+      "author": "L. Leslie Brooke",
+      "coverImage": "http://gutenberg.org/cache/epub/15661/pg15661.cover.small.jpg",
+      "url": "http://gutenberg.org/files/15661/15661-h/15661-h.htm"
+    },
+    {
+      "title": "Slovenly Betsy",
+      "author": "Heinrich Hoffmann",
+      "coverImage": "http://gutenberg.org/cache/epub/19915/pg19915.cover.small.jpg",
+      "url": "http://gutenberg.org/files/19915/19915-h/19915-h.htm"
+    },
+    {
+      "title": "More Goops and How Not to Be Them: A Manual of Manners for Impolite Infants",
+      "author": "Gelett Burgess",
+      "coverImage": "http://gutenberg.org/cache/epub/13004/pg13004.cover.small.jpg",
+      "url": "http://gutenberg.org/files/13004/13004-h/13004-h.htm"
+    },
+    {
+      "title": "The History of Insects",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/10834/pg10834.cover.small.jpg",
+      "url": "http://gutenberg.org/files/10834/10834-h/10834-h.htm"
+    },
+    {
+      "title": "The Baby's Opera",
+      "author": "Walter Crane",
+      "coverImage": "http://gutenberg.org/cache/epub/25418/pg25418.cover.small.jpg",
+      "url": "http://gutenberg.org/files/25418/25418-h/25418-h.htm"
+    },
+    {
+      "title": "The Babes in the Wood",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/19361/pg19361.cover.small.jpg",
+      "url": "http://gutenberg.org/files/19361/19361-h/19361-h.htm"
+    },
+    {
+      "title": "Marigold Garden",
+      "author": "Kate Greenaway",
+      "coverImage": "http://gutenberg.org/cache/epub/19541/pg19541.cover.small.jpg",
+      "url": "http://gutenberg.org/files/19541/19541-h/19541-h.htm"
+    },
+    {
+      "title": "The National Nursery Book",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/24778/pg24778.cover.small.jpg",
+      "url": "http://gutenberg.org/files/24778/24778-h/24778-h.htm"
+    },
+    {
+      "title": "Mother Goose",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/24623/pg24623.cover.small.jpg",
+      "url": "http://gutenberg.org/files/24623/24623-h/24623-h.htm"
+    },
+    {
+      "title": "The Twelve Labours of Hercules, Son of Jupiter & Alcmena",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/22529/pg22529.cover.small.jpg",
+      "url": "http://gutenberg.org/files/22529/22529-h/22529-h.htm"
+    },
+    {
+      "title": "Nonsense Drolleries",
+      "author": "Edward Lear",
+      "coverImage": "http://gutenberg.org/cache/epub/20113/pg20113.cover.small.jpg",
+      "url": "http://gutenberg.org/files/20113/20113-h/20113-h.htm"
+    },
+    {
+      "title": "Little Cinderella",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/20723/pg20723.cover.small.jpg",
+      "url": "http://gutenberg.org/files/20723/20723-h/20723-h.htm"
+    },
+    {
+      "title": "Little Stories for Little Children",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/22896/pg22896.cover.small.jpg",
+      "url": "http://gutenberg.org/files/22896/22896-h/22896-h.htm"
+    },
+    {
+      "title": "The Diverting History of John Gilpin",
+      "author": "William Cowper",
+      "coverImage": "http://gutenberg.org/cache/epub/11979/pg11979.cover.small.jpg",
+      "url": "http://gutenberg.org/files/11979/11979-h/11979-h.htm"
+    },
+    {
+      "title": "The Goop Directory of Juvenile Offenders Famous for their Misdeeds and Serving as a Salutary Example for all Virtuous Children",
+      "author": "Gelett Burgess",
+      "coverImage": "http://gutenberg.org/cache/epub/13035/pg13035.cover.small.jpg",
+      "url": "http://gutenberg.org/files/13035/13035-h/13035-h.htm"
+    },
+    {
+      "title": "The Great Panjandrum Himself",
+      "author": "Samuel Foote",
+      "coverImage": "http://gutenberg.org/cache/epub/18417/pg18417.cover.small.jpg",
+      "url": "http://gutenberg.org/files/18417/18417-h/18417-h.htm"
+    },
+    {
+      "title": "The Jungle Baby",
+      "author": "G. E. Farrow",
+      "coverImage": "http://gutenberg.org/cache/epub/20693/pg20693.cover.small.jpg",
+      "url": "http://gutenberg.org/files/20693/20693-h/20693-h.htm"
+    },
+    {
+      "title": "Ring O' Roses: A Nursery Rhyme Picture Book",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/20652/pg20652.cover.small.jpg",
+      "url": "http://gutenberg.org/files/20652/20652-h/20652-h.htm"
+    },
+    {
+      "title": "The Baby's Bouquet: A Fresh Bunch of Rhymes and Tunes",
+      "author": "Walter Crane",
+      "coverImage": "http://gutenberg.org/cache/epub/25432/pg25432.cover.small.jpg",
+      "url": "http://gutenberg.org/files/25432/25432-h/25432-h.htm"
+    },
+    {
+      "title": "Holiday Romance",
+      "author": "Charles Dickens",
+      "coverImage": "http://gutenberg.org/cache/epub/809/pg809.cover.small.jpg",
+      "url": "http://gutenberg.org/files/809/809-h/809-h.htm"
+    },
+    {
+      "title": "The Remarkable Adventures of an Old Woman and Her Pig",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/22778/pg22778.cover.small.jpg",
+      "url": "http://gutenberg.org/files/22778/22778-h/22778-h.htm"
+    },
+    {
+      "title": "Denslow's Mother Goose",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/18546/pg18546.cover.small.jpg",
+      "url": "http://gutenberg.org/files/18546/18546-h/18546-h.htm"
+    },
+    {
+      "title": "Mother Stories from the New Testament",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/17163/pg17163.cover.small.jpg",
+      "url": "http://gutenberg.org/files/17163/17163-h/17163-h.htm"
+    },
+    {
+      "title": "The Wonders of a Toy Shop",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/24834/pg24834.cover.small.jpg",
+      "url": "http://gutenberg.org/files/24834/24834-h/24834-h.htm"
+    },
+    {
+      "title": "The History of Tom Thumb and Other Stories.",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/11092/pg11092.cover.small.jpg",
+      "url": "http://gutenberg.org/files/11092/11092-h/11092-h.htm"
+    },
+    {
+      "title": "The Farmer's Boy",
+      "author": "Randolph Caldecott",
+      "coverImage": "http://gutenberg.org/cache/epub/18360/pg18360.cover.small.jpg",
+      "url": "http://gutenberg.org/files/18360/18360-h/18360-h.htm"
+    },
+    {
+      "title": "The Dumpy Books for Children;",
+      "author": "Eden Coybee",
+      "coverImage": "http://gutenberg.org/cache/epub/23302/pg23302.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23302/23302-h/23302-h.htm"
+    },
+    {
+      "title": "Denslow's Three Bears",
+      "author": "W. W. Denslow",
+      "coverImage": "http://gutenberg.org/cache/epub/19772/pg19772.cover.small.jpg",
+      "url": "http://gutenberg.org/files/19772/19772-h/19772-h.htm"
+    },
+    {
+      "title": "The Kitten's Garden of Verses",
+      "author": "Oliver Herford",
+      "coverImage": "http://gutenberg.org/cache/epub/23433/pg23433.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23433/23433-h/23433-h.htm"
+    },
+    {
+      "title": "An Elegy on the Death of a Mad Dog",
+      "author": "Oliver Goldsmith",
+      "coverImage": "http://gutenberg.org/cache/epub/17102/pg17102.cover.small.jpg",
+      "url": "http://gutenberg.org/files/17102/17102-h/17102-h.htm"
+    },
+    {
+      "title": "Wee Ones' Bible Stories",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/11241/pg11241.cover.small.jpg",
+      "url": "http://gutenberg.org/files/11241/11241-h/11241-h.htm"
+    },
+    {
+      "title": "The Mythological Zoo",
+      "author": "Oliver Herford",
+      "coverImage": "http://gutenberg.org/cache/epub/23749/pg23749.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23749/23749-h/23749-h.htm"
+    },
+    {
+      "title": "An Alphabet of Old Friends",
+      "author": "Walter Crane",
+      "coverImage": "http://gutenberg.org/cache/epub/17282/pg17282.cover.small.jpg",
+      "url": "http://gutenberg.org/files/17282/17282-h/17282-h.htm"
+    },
+    {
+      "title": "The Little People of the Snow",
+      "author": "William Cullen Bryant",
+      "coverImage": "http://gutenberg.org/cache/epub/22406/pg22406.cover.small.jpg",
+      "url": "http://gutenberg.org/files/22406/22406-h/22406-h.htm"
+    },
+    {
+      "title": "Aunt Mary's Primer",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/11065/pg11065.cover.small.jpg",
+      "url": "http://gutenberg.org/files/11065/11065-h/11065-h.htm"
+    },
+    {
+      "title": "Footsteps on the Road to Learning; Or, The Alphabet in Rhyme",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/10979/pg10979.cover.small.jpg",
+      "url": "http://gutenberg.org/files/10979/10979-h/10979-h.htm"
+    },
+    {
+      "title": "London Town",
+      "author": "Felix Leigh",
+      "coverImage": "http://gutenberg.org/cache/epub/21650/pg21650.cover.small.jpg",
+      "url": "http://gutenberg.org/files/21650/21650-h/21650-h.htm"
+    },
+    {
+      "title": "Hey Diddle Diddle and Baby Bunting",
+      "author": "Randolph Caldecott",
+      "coverImage": "http://gutenberg.org/cache/epub/19177/pg19177.cover.small.jpg",
+      "url": "http://gutenberg.org/files/19177/19177-h/19177-h.htm"
+    },
+    {
+      "title": "Fun and Nonsense",
+      "author": "Willard Bonte",
+      "coverImage": "http://gutenberg.org/cache/epub/11095/pg11095.cover.small.jpg",
+      "url": "http://gutenberg.org/files/11095/11095-h/11095-h.htm"
+    },
+    {
+      "title": "The Three Jovial Huntsmen",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/14081/pg14081.cover.small.jpg",
+      "url": "http://gutenberg.org/files/14081/14081-h/14081-h.htm"
+    },
+    {
+      "title": "Pleasing Stories for Good Children with Pictures",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/24738/pg24738.cover.small.jpg",
+      "url": "http://gutenberg.org/files/24738/24738-h/24738-h.htm"
+    },
+    {
+      "title": "The World Turned Upside Down",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/10965/pg10965.cover.small.jpg",
+      "url": "http://gutenberg.org/files/10965/10965-h/10965-h.htm"
+    },
+    {
+      "title": "Eight Illustrations to Shakespeare's Tempest",
+      "author": "Walter Crane",
+      "coverImage": "http://gutenberg.org/cache/epub/23479/pg23479.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23479/23479-h/23479-h.htm"
+    },
+    {
+      "title": "Book about Animals",
+      "author": "Rufus Merrill",
+      "coverImage": "http://gutenberg.org/cache/epub/10737/pg10737.cover.small.jpg",
+      "url": "http://gutenberg.org/files/10737/10737-h/10737-h.htm"
+    },
+    {
+      "title": "All Round the Year",
+      "author": "E. Nesbit and Caris Brooke",
+      "coverImage": "http://gutenberg.org/cache/epub/20404/pg20404.cover.small.jpg",
+      "url": "http://gutenberg.org/files/20404/20404-h/20404-h.htm"
+    },
+    {
+      "title": "The Picture Alphabet",
+      "author": "Oliver Spafford",
+      "coverImage": "http://gutenberg.org/cache/epub/10742/pg10742.cover.small.jpg",
+      "url": "http://gutenberg.org/files/10742/10742-h/10742-h.htm"
+    },
+    {
+      "title": "More Nonsense",
+      "author": "Edward Lear",
+      "coverImage": "http://gutenberg.org/cache/epub/13648/pg13648.cover.small.jpg",
+      "url": "http://gutenberg.org/files/13648/13648-h/13648-h.htm"
+    },
+    {
+      "title": "The Circus Procession",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/10749/pg10749.cover.small.jpg",
+      "url": "http://gutenberg.org/files/10749/10749-h/10749-h.htm"
+    },
+    {
+      "title": "The Queen of the Pirate Isle",
+      "author": "Bret Harte",
+      "coverImage": "http://gutenberg.org/cache/epub/17168/pg17168.cover.small.jpg",
+      "url": "http://gutenberg.org/files/17168/17168-h/17168-h.htm"
+    },
+    {
+      "title": "The Song of Sixpence",
+      "author": "Walter Crane",
+      "coverImage": "http://gutenberg.org/cache/epub/18344/pg18344.cover.small.jpg",
+      "url": "http://gutenberg.org/files/18344/18344-h/18344-h.htm"
+    },
+    {
+      "title": "Death and Burial of Poor Cock Robin",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/17060/pg17060.cover.small.jpg",
+      "url": "http://gutenberg.org/files/17060/17060-h/17060-h.htm"
+    },
+    {
+      "title": "The Butterfly's Ball and the Grasshopper's Feast",
+      "author": "William Roscoe",
+      "coverImage": "http://gutenberg.org/cache/epub/20860/pg20860.cover.small.jpg",
+      "url": "http://gutenberg.org/files/20860/20860-h/20860-h.htm"
+    },
+    {
+      "title": "Funny Alphabet",
+      "author": "Edward P. Cogger",
+      "coverImage": "http://gutenberg.org/cache/epub/20286/pg20286.cover.small.jpg",
+      "url": "http://gutenberg.org/files/20286/20286-h/20286-h.htm"
+    },
+    {
+      "title": "The Motor Car Dumpy Book",
+      "author": "T. W. H. Crosland",
+      "coverImage": "http://gutenberg.org/cache/epub/24609/pg24609.cover.small.jpg",
+      "url": "http://gutenberg.org/files/24609/24609-h/24609-h.htm"
+    },
+    {
+      "title": "The Story of Jack and the Giants",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/15621/pg15621.cover.small.jpg",
+      "url": "http://gutenberg.org/files/15621/15621-h/15621-h.htm"
+    },
+    {
+      "title": "Child's First Picture Book",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/12227/pg12227.cover.small.jpg",
+      "url": "http://gutenberg.org/files/12227/12227-h/12227-h.htm"
+    },
+    {
+      "title": "An Elegy on the Glory of Her Sex, Mrs. Mary Blaize",
+      "author": "Oliver Goldsmith",
+      "coverImage": "http://gutenberg.org/cache/epub/17117/pg17117.cover.small.jpg",
+      "url": "http://gutenberg.org/files/17117/17117-h/17117-h.htm"
+    },
+    {
+      "title": "The Illustrated Alphabet of Birds",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/11073/pg11073.cover.small.jpg",
+      "url": "http://gutenberg.org/files/11073/11073-h/11073-h.htm"
+    },
+    {
+      "title": "The Adventures of the Little Woman, Her Dog and the Pedlar",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/22755/pg22755.cover.small.jpg",
+      "url": "http://gutenberg.org/files/22755/22755-h/22755-h.htm"
+    },
+    {
+      "title": "The Story of Little Black Mingo",
+      "author": "Helen Bannerman",
+      "coverImage": "http://gutenberg.org/cache/epub/11162/pg11162.cover.small.jpg",
+      "url": "http://gutenberg.org/files/11162/11162-h/11162-h.htm"
+    },
+    {
+      "title": "The Frog Who Would A Wooing Go",
+      "author": "Charles H. Bennett",
+      "coverImage": "http://gutenberg.org/cache/epub/20579/pg20579.cover.small.jpg",
+      "url": "http://gutenberg.org/files/20579/20579-h/20579-h.htm"
+    },
+    {
+      "title": "Willie Mouse",
+      "author": "Alta Tabor",
+      "coverImage": "http://gutenberg.org/cache/epub/18742/pg18742.cover.small.jpg",
+      "url": "http://gutenberg.org/files/18742/18742-h/18742-h.htm"
+    },
+    {
+      "title": "Dumpy Proverbs",
+      "author": "Honor C. Appleton",
+      "coverImage": "http://gutenberg.org/cache/epub/24610/pg24610.cover.small.jpg",
+      "url": "http://gutenberg.org/files/24610/24610-h/24610-h.htm"
+    },
+    {
+      "title": "An Alphabet of Celebrities",
+      "author": "Oliver Herford",
+      "coverImage": "http://gutenberg.org/cache/epub/22818/pg22818.cover.small.jpg",
+      "url": "http://gutenberg.org/files/22818/22818-h/22818-h.htm"
+    },
+    {
+      "title": "Punky Dunk and the Gold Fish",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/19537/pg19537.cover.small.jpg",
+      "url": "http://gutenberg.org/files/19537/19537-h/19537-h.htm"
+    },
+    {
+      "title": "Pages for Laughing Eyes",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/20017/pg20017.cover.small.jpg",
+      "url": "http://gutenberg.org/files/20017/20017-h/20017-h.htm"
+    },
+    {
+      "title": "Punky Dunk and the Spotted Pup",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/19366/pg19366.cover.small.jpg",
+      "url": "http://gutenberg.org/files/19366/19366-h/19366-h.htm"
+    },
+    {
+      "title": "A Defective Santa Claus",
+      "author": "James Whitcomb Riley",
+      "coverImage": "http://gutenberg.org/cache/epub/20181/pg20181.cover.small.jpg",
+      "url": "http://gutenberg.org/files/20181/20181-h/20181-h.htm"
+    },
+    {
+      "title": "Kernel Cob And Little Miss Sweetclover",
+      "author": "George Mitchell",
+      "coverImage": "http://gutenberg.org/cache/epub/14110/pg14110.cover.small.jpg",
+      "url": "http://gutenberg.org/files/14110/14110-h/14110-h.htm"
+    },
+    {
+      "title": "R. Caldecott's First Collection of Pictures and Songs",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/20777/pg20777.cover.small.jpg",
+      "url": "http://gutenberg.org/files/20777/20777-h/20777-h.htm"
+    },
+    {
+      "title": "The Tiny Story Book.",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/23336/pg23336.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23336/23336-h/23336-h.htm"
+    },
+    {
+      "title": "Simple Simon",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/22891/pg22891.cover.small.jpg",
+      "url": "http://gutenberg.org/files/22891/22891-h/22891-h.htm"
+    },
+    {
+      "title": "The Ladder to Learning",
+      "author": "Miss Lovechild",
+      "coverImage": "http://gutenberg.org/cache/epub/14184/pg14184.cover.small.jpg",
+      "url": "http://gutenberg.org/files/14184/14184-h/14184-h.htm"
+    },
+    {
+      "title": "Captain Boldheart & the Latin-Grammar Master",
+      "author": "Charles Dickens",
+      "coverImage": "http://gutenberg.org/cache/epub/23765/pg23765.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23765/23765-h/23765-h.htm"
+    },
+    {
+      "title": "Goody Two-Shoes",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/21428/pg21428.cover.small.jpg",
+      "url": "http://gutenberg.org/files/21428/21428-h/21428-h.htm"
+    },
+    {
+      "title": "The Butterfly's Funeral",
+      "author": "J. L. B.",
+      "coverImage": "http://gutenberg.org/cache/epub/22201/pg22201.cover.small.jpg",
+      "url": "http://gutenberg.org/files/22201/22201-h/22201-h.htm"
+    },
+    {
+      "title": "The Queen of Hearts, and Sing a Song for Sixpence",
+      "author": "Randolph Caldecott",
+      "coverImage": "http://gutenberg.org/cache/epub/10634/pg10634.cover.small.jpg",
+      "url": "http://gutenberg.org/files/10634/10634-h/10634-h.htm"
+    },
+    {
+      "title": "The Milkmaid",
+      "author": "Randolph Caldecott",
+      "coverImage": "http://gutenberg.org/cache/epub/19868/pg19868.cover.small.jpg",
+      "url": "http://gutenberg.org/files/19868/19868-h/19868-h.htm"
+    },
+    {
+      "title": "The Tiny Picture Book",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/23407/pg23407.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23407/23407-h/23407-h.htm"
+    },
+    {
+      "title": "The Young Captives",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/10983/pg10983.cover.small.jpg",
+      "url": "http://gutenberg.org/files/10983/10983-h/10983-h.htm"
+    },
+    {
+      "title": "A Bit of Sunshine",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/24692/pg24692.cover.small.jpg",
+      "url": "http://gutenberg.org/files/24692/24692-h/24692-h.htm"
+    },
+    {
+      "title": "Punky Dunk and the Mouse",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/19531/pg19531.cover.small.jpg",
+      "url": "http://gutenberg.org/files/19531/19531-h/19531-h.htm"
+    },
+    {
+      "title": "Johnny Crow's Party",
+      "author": "L. Leslie Brooke",
+      "coverImage": "http://gutenberg.org/cache/epub/10557/pg10557.cover.small.jpg",
+      "url": "http://gutenberg.org/files/10557/10557-h/10557-h.htm"
+    },
+    {
+      "title": "Tame Animals",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/22561/pg22561.cover.small.jpg",
+      "url": "http://gutenberg.org/files/22561/22561-h/22561-h.htm"
+    },
+    {
+      "title": "Harrison's New Nursery Picture Book",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/22335/pg22335.cover.small.jpg",
+      "url": "http://gutenberg.org/files/22335/22335-h/22335-h.htm"
+    },
+    {
+      "title": "Baseball ABC",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/19169/pg19169.cover.small.jpg",
+      "url": "http://gutenberg.org/files/19169/19169-h/19169-h.htm"
+    },
+    {
+      "title": "The Fox Jumps Over the Parson's Gate",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/19991/pg19991.cover.small.jpg",
+      "url": "http://gutenberg.org/files/19991/19991-h/19991-h.htm"
+    },
+    {
+      "title": "How Freckle Frog Made Herself Pretty",
+      "author": "Charlotte B. Herr",
+      "coverImage": "http://gutenberg.org/cache/epub/19197/pg19197.cover.small.jpg",
+      "url": "http://gutenberg.org/files/19197/19197-h/19197-h.htm"
+    },
+    {
+      "title": "Gems of Poetry, for Girls and Boys",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/11023/pg11023.cover.small.jpg",
+      "url": "http://gutenberg.org/files/11023/11023-h/11023-h.htm"
+    },
+    {
+      "title": "The Peacock 'At Home' AND The Butterfly's Ball AND The Fancy Fair",
+      "author": "Catherine Ann Turner Dorset and William Roscoe",
+      "coverImage": "http://gutenberg.org/cache/epub/23665/pg23665.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23665/23665-h/23665-h.htm"
+    },
+    {
+      "title": "Dame Duck's First Lecture on Education",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/22055/pg22055.cover.small.jpg",
+      "url": "http://gutenberg.org/files/22055/22055-h/22055-h.htm"
+    },
+    {
+      "title": "The Entertaining History of Jobson & Nell",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/23652/pg23652.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23652/23652-h/23652-h.htm"
+    },
+    {
+      "title": "The Faithless Parrot",
+      "author": "Charles H. Bennett",
+      "coverImage": "http://gutenberg.org/cache/epub/21884/pg21884.cover.small.jpg",
+      "url": "http://gutenberg.org/files/21884/21884-h/21884-h.htm"
+    },
+    {
+      "title": "The Trial of William Tinkling",
+      "author": "Charles Dickens",
+      "coverImage": "http://gutenberg.org/cache/epub/23452/pg23452.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23452/23452-h/23452-h.htm"
+    },
+    {
+      "title": "A Little Present for a Good Child",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/24849/pg24849.cover.small.jpg",
+      "url": "http://gutenberg.org/files/24849/24849-h/24849-h.htm"
+    },
+    {
+      "title": "The Wise Mamma Goose",
+      "author": "Charlotte B. Herr",
+      "coverImage": "http://gutenberg.org/cache/epub/11936/pg11936.cover.small.jpg",
+      "url": "http://gutenberg.org/files/11936/11936-h/11936-h.htm"
+    },
+    {
+      "title": "Peter Prim's Profitable Present",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/24694/pg24694.cover.small.jpg",
+      "url": "http://gutenberg.org/files/24694/24694-h/24694-h.htm"
+    },
+    {
+      "title": "Little Sarah",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/10754/pg10754.cover.small.jpg",
+      "url": "http://gutenberg.org/files/10754/10754-h/10754-h.htm"
+    },
+    {
+      "title": "Ride A Cock-Horse To Banbury Cross & A Farmer Went Trotting Upon His Grey Mare",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/18596/pg18596.cover.small.jpg",
+      "url": "http://gutenberg.org/files/18596/18596-h/18596-h.htm"
+    },
+    {
+      "title": "The Death and Burial of Cock Robin",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/22921/pg22921.cover.small.jpg",
+      "url": "http://gutenberg.org/files/22921/22921-h/22921-h.htm"
+    },
+    {
+      "title": "Peter Pry's Puppet Show",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/24736/pg24736.cover.small.jpg",
+      "url": "http://gutenberg.org/files/24736/24736-h/24736-h.htm"
+    },
+    {
+      "title": "Monkey Jack and Other Stories",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/11877/pg11877.cover.small.jpg",
+      "url": "http://gutenberg.org/files/11877/11877-h/11877-h.htm"
+    },
+    {
+      "title": "Dame Wonder's Picture Alphabet",
+      "author": "Anonymous",
+      "coverImage": "http://gutenberg.org/cache/epub/23483/pg23483.cover.small.jpg",
+      "url": "http://gutenberg.org/files/23483/23483-h/23483-h.htm"
+    },
+    {
+      "title": "Tommy Tatters",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/24734/pg24734.cover.small.jpg",
+      "url": "http://gutenberg.org/files/24734/24734-h/24734-h.htm"
+    },
+    {
+      "title": "The Emperor's Rout",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/24894/pg24894.cover.small.jpg",
+      "url": "http://gutenberg.org/files/24894/24894-h/24894-h.htm"
+    },
+    {
+      "title": "An Entertaining History of Tom Thumb",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/24795/pg24795.cover.small.jpg",
+      "url": "http://gutenberg.org/files/24795/24795-h/24795-h.htm"
+    },
+    {
+      "title": "My Dog Tray",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/20575/pg20575.cover.small.jpg",
+      "url": "http://gutenberg.org/files/20575/20575-h/20575-h.htm"
+    },
+    {
+      "title": "Happy and Gay Marching Away",
+      "author": "Unknown",
+      "coverImage": "http://gutenberg.org/cache/epub/11098/pg11098.cover.small.jpg",
+      "url": "http://gutenberg.org/files/11098/11098-h/11098-h.htm"
+    },
+    {
+      "title": "Come Lasses and Lads",
+      "author": "",
+      "coverImage": "http://gutenberg.org/cache/epub/18341/pg18341.cover.small.jpg",
+      "url": "http://gutenberg.org/files/18341/18341-h/18341-h.htm"
+    },
+    {
+      "title": "The Maid and the Magpie",
+      "author": "Charles Moreton",
+      "coverImage": "http://gutenberg.org/cache/epub/22181/pg22181.cover.small.jpg",
+      "url": "http://gutenberg.org/files/22181/22181-h/22181-h.htm"
+    }
+  ]
+}
