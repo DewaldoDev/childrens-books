@@ -22,18 +22,25 @@ const scrapePage = async (url, books) => {
     const url = `${HOST}/files/${id}/${id}-h/${id}-h.htm`;
 
     try {
-      await got.head(url);
+      const $ = await getPage(url);
 
       const book = {
+        id,
         title: $(this).find(".title").text(),
         author: $(this).find(".subtitle").text(),
         coverImage: `${HOST}${$(this).find(".cover-thumb").attr("src")}`,
-        url,
+        pageBody: $("body")
+          .html()
+          .replace(
+            /src="images/g,
+            `src="http://gutenberg.org/files/${id}/${id}-h/images`
+          )
+          .replace(/<pre>.*?<\/pre>/gm, ""),
       };
 
       books.push(book);
     } catch (error) {
-      console.log(`Error fetching book for ${url}`);
+      console.log(`Error fetching book for ${url}: ${error}`);
     }
   });
 
@@ -44,7 +51,11 @@ const scrapePage = async (url, books) => {
   if (nextPageLink) {
     return scrapePage(`${HOST}${nextPageLink}`, books);
   } else {
-    return books;
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        resolve(books);
+      }, 2000);
+    });
   }
 };
 
@@ -54,7 +65,7 @@ const scrapePage = async (url, books) => {
     []
   );
 
-  fs.writeFile("../data/books.json", JSON.stringify({ books }), (err) => {
+  fs.writeFile("./data/books.json", JSON.stringify({ books }), (err) => {
     if (err) console.log(err);
     else {
       console.log("File written successfully");
